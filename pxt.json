@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Huskylens": "github:dfrobot/pxt-dfrobot_huskylens#v2.0.6"
     },
     "files": [
         "README.md",
